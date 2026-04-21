@@ -1,0 +1,12 @@
+{
+  "Id": "ImprovedPoP",
+  "DisplayName": "Improved Prophet of Pestilence",
+  "Author": "YourNameHere",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.23.0",
+  "GameVersion": "2.1.0",
+  "EntryMethod": "ImprovedPoP.Main.Load",
+  "Requirements": [],
+  "AssemblyName": "ImprovedPoP.dll",
+  "HomePage": ""
+}
