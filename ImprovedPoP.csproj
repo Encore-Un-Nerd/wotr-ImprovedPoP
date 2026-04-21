@@ -7,6 +7,7 @@
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
 	<WrathPath>D:\Steam\steamapps\common\Pathfinder Second Adventure</WrathPath>
+  <UnityModManagerPath>C:\Users\guill\Desktop\UnityModManagerInstaller</WrathPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -47,7 +48,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityModManager">
-      <HintPath>C:\Users\guill\Desktop\UnityModManagerInstaller\UnityModManager.dll</HintPath>
+      <HintPath>$(UnityModManagerPath)\UnityModManager.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
