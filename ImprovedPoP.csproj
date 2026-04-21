@@ -6,8 +6,8 @@
     <RootNamespace>ImprovedPoP</RootNamespace>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
-	<WrathPath>D:\Steam\steamapps\common\Pathfinder Second Adventure</WrathPath>
-  <UnityModManagerPath>C:\Users\guill\Desktop\UnityModManagerInstaller</WrathPath>
+	  <WrathPath>D:\Steam\steamapps\common\Pathfinder Second Adventure</WrathPath>
+    <UnityModManagerPath>D:\tools\UnityModManagerInstaller</UnityModManagerPath>
   </PropertyGroup>
 
   <ItemGroup>
