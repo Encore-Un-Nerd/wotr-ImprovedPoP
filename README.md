@@ -8,6 +8,10 @@ A mod for Pathfinder: Wrath of the Righteous which improves gameplay for the Pro
 - **Mythic Virulent Plague**: A mythic feat which adds +1 DC to all disease effects (or +2 with Greater Virulent Plague), just like Mythic Spell Focus works.
 - **A Thousand Diseases fix**: Fixes the capstone aura so the disease status persists correctly for as many rounds as the shaman's class level, instead of being instant as it was initially implemented by OwlCat.
 
+## Supported Languages (looking for contributors to add more)
+- English
+- French
+
 ## Requirements
 - Pathfinder: Wrath of the Righteous
 - A Dance of Masks DLC
